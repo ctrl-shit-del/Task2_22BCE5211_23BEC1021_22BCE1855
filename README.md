@@ -48,7 +48,7 @@ The trained model weights must be downloaded separately:
 | `sgmse_task2_light.ckpt` | Lightweight model for inference | ~250 MB |
 | `epoch=4-step=10000.ckpt` | Full training checkpoint | ~1.25 GB |
 
-**👉 [Download Checkpoints from Google Drive](YOUR_DRIVE_LINK_HERE)**
+**👉 [Download Checkpoints from Google Drive](https://drive.google.com/drive/folders/1HsC-skU36RT4WGR4i81-N341-ZqpiK3v?usp=sharing)**
 
 > Place both `.ckpt` files in the **root directory** of this repo after downloading.
 
